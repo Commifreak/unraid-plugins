@@ -3,6 +3,7 @@
     <PluginURL>https://raw.githubusercontent.com/Commifreak/ca.backup2/master/ca.backup2.plg</PluginURL>
     <PluginAuthor>Robin Kluth</PluginAuthor>
     <Beta>False</Beta>
+    <MaxVer>6.11.5</MaxVer>
     <Category>Tools:System Backup:</Category>
     <Name>Appdata Backup/Restore v3</Name>
     <Description>
