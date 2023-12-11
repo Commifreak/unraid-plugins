@@ -5,7 +5,7 @@
     <Beta>True</Beta>
     <MinVer>6.12</MinVer>
     <Category>Tools:System Backup:</Category>
-    <Name>Appdata Backup</Name>
+    <Name>Appdata Backup BETA</Name>
     <Description>This plugin offers backup/restore of your docker volumes (and meta infos) and your flash drive</Description>
     <Support>https://forums.unraid.net/topic/136995-pluginbeta-appdatabackup/</Support>
     <Icon>https://raw.githubusercontent.com/Commifreak/unraid-appdata.backup/master/images/appicon.png</Icon>
